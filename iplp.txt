@@ -4,3 +4,4 @@ MI
 RCB
 RR
 GT
+GT was not in the list of teams in 2008
