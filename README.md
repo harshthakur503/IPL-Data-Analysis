@@ -1,4 +1,4 @@
-# IPL-Data-Analysis
+# IPL Data Analysis
 
 #### Overview:
 This project analyzes data from Indian Premier League (IPL) matches to uncover insights about team performances, player statistics, and match outcomes. The analysis includes visualizations to enhance understanding and facilitate decision-making.
